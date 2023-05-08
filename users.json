@@ -1,12 +1,14 @@
-[
-  { "nom": "Dupont", "prenom": "Marie", "age": 32, "ville": "Paris" },
-  { "nom": "Martin", "prenom": "Pierre", "age": 24, "ville": "Lyon" },
-  { "nom": "Girard", "prenom": "Sophie", "age": 41, "ville": "Marseille" },
-  { "nom": "Moreau", "prenom": "Jean", "age": 18, "ville": "Toulouse" },
-  { "nom": "Lefevre", "prenom": "Claire", "age": 29, "ville": "Bordeaux" },
-  { "nom": "Roux", "prenom": "Antoine", "age": 37, "ville": "Strasbourg" },
-  { "nom": "Lecomte", "prenom": "Lucie", "age": 26, "ville": "Nantes" },
-  { "nom": "Bernard", "prenom": "Paul", "age": 44, "ville": "Nice" },
-  { "nom": "Thomas", "prenom": "Julie", "age": 21, "ville": "Rennes" },
-  { "nom": "Garcia", "prenom": "Manuel", "age": 39, "ville": "Montpellier" }
-]
+{
+  "results": [
+    { "nom": "Dupont", "prenom": "Marie", "age": 32, "ville": "Paris" },
+    { "nom": "Martin", "prenom": "Pierre", "age": 24, "ville": "Lyon" },
+    { "nom": "Girard", "prenom": "Sophie", "age": 41, "ville": "Marseille" },
+    { "nom": "Moreau", "prenom": "Jean", "age": 18, "ville": "Toulouse" },
+    { "nom": "Lefevre", "prenom": "Claire", "age": 29, "ville": "Bordeaux" },
+    { "nom": "Roux", "prenom": "Antoine", "age": 37, "ville": "Strasbourg" },
+    { "nom": "Lecomte", "prenom": "Lucie", "age": 26, "ville": "Nantes" },
+    { "nom": "Bernard", "prenom": "Paul", "age": 44, "ville": "Nice" },
+    { "nom": "Thomas", "prenom": "Julie", "age": 21, "ville": "Rennes" },
+    { "nom": "Garcia", "prenom": "Manuel", "age": 39, "ville": "Montpellier" }
+  ]
+}
